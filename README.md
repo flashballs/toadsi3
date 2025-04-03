@@ -4,11 +4,19 @@ a cool i3 config with many themes
 
 # apps that you need
 
-i3     pacman -S i3
-feh      pacman -S feh
-polybar    pacman -s polybar
-git          pacman -s git
-kitty          pacman -S kitty
+i3
+
+
+feh
+
+
+polybar
+
+
+git
+
+
+kitty
 
 # step 1 git clone the repo
 
