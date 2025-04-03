@@ -25,11 +25,15 @@ $ git clone https://github.com/flashballs/toadsi3
 # step 2 run the get assets script
 
 $ cd ~/toadsi3
+
+
 $ ./getassest.sh
 
 # step 3 pick a theme
 
 $ cd ~/toadsi3/themes
+
+
 $ ./YOUR THEME OF CHOOSHING.sh
 
 if you dont know what theme to pick cd themes then run ls for a list of options
