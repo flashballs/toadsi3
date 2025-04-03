@@ -39,8 +39,20 @@ $ ./YOUR THEME OF CHOOSHING.sh
 if you dont know what theme to pick cd themes then run ls for a list of options
 
 # credits
+
+
 i3 https://i3wm.org/
+
+
 feh https://feh.finalrewind.org/
+
+
 polybar https://github.com/polybar/polybar
+
+
 kitty https://sw.kovidgoyal.net/kitty/
+
+
 nerdfont https://www.nerdfonts.com/
+
+dmenu https://tools.suckless.org/dmenu/
