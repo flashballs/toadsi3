@@ -216,3 +216,5 @@ client.urgent           $red $red $white $red $red
 
 
 
+default_border pixel 5
+
